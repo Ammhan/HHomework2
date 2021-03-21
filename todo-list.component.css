@@ -1,0 +1,14 @@
+.container {
+    border: 1px solid black;
+    width: 40%;
+    padding: 10px;
+}
+.new-Task, .task-detail {
+    border: 1px solid black;
+    padding: 10px;
+
+}
+
+.task-detail {
+    margin-top: 10px;
+}
